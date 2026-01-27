@@ -108,6 +108,6 @@ This project addresses that issue by introducing **Corrective Retrieval**, ensur
 ## Author
 
 **Khushboo Kumari**  
-Aspiring Data sience 
+  Aspiring Data Scientist
 
 GitHub: https://github.com/khushboo-datasci
