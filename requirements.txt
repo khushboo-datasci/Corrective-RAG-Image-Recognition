@@ -1,0 +1,23 @@
+python==3.12
+
+# Core data handling
+numpy
+pandas
+
+# Document processing
+pypdf
+
+# Embeddings
+sentence-transformers
+
+# Vector database
+faiss-cpu
+
+# LangChain modular packages
+langchain
+langchain-core
+langchain-text-splitters
+langchain-community
+
+# Utilities
+tqdm
