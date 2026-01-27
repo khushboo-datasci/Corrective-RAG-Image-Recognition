@@ -63,9 +63,9 @@ This project addresses that issue by introducing **Corrective Retrieval**, ensur
 
 ----
 
-## ## Visualizations / Outputs
+## Visualizations / Outputs
 
-![CRAG Query Output](Screenshot 2026-01-27 194621.png)
+![CRAG Query Output](Corrective-RAG-Image-Recognition.png)
 
 
 ----
