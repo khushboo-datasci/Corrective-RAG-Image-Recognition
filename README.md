@@ -93,21 +93,21 @@ This project addresses that issue by introducing **Corrective Retrieval**, ensur
 
 1. Clone the repository
 
-git clone https://github.com/khushboo-datasci/Corrective-RAG-Image-Recognition
+    git clone https://github.com/khushboo-datasci/Corrective-RAG-Image-Recognition
 
 2. Install dependencies  
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Open and run the notebook  
 
-CRAG_Project.ipynb
+    CRAG_Project.ipynb
 
 ----
 
 ## Author
 
 **Khushboo Kumari**  
-Aspiring Generative AI Engineer  
+Aspiring Data sience 
 
 GitHub: https://github.com/khushboo-datasci
