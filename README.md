@@ -103,7 +103,7 @@ This project addresses that issue by introducing **Corrective Retrieval**, ensur
 
     CRAG_Project.ipynb
 
-       (https://www.kaggle.com/code/zandyy/crag-project-ipynb)
+   https://www.kaggle.com/code/zandyy/crag-project-ipynb
    
 ----
 
